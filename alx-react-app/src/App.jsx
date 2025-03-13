@@ -41,7 +41,7 @@ function App() {
       </div>
       <div>
       <MainContent />
-      <UserProfile name="Alice" age="25" bio="Loves Hiking and Photography" />
+      <UserProfile name="Alice" age="25" bio="Loves hiking and photography" />
       </div>
       <div>
         <Footer />
